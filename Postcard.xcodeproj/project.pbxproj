@@ -13,6 +13,8 @@
 		C4B5D2401ABE218B00C87B82 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4B5D23F1ABE218B00C87B82 /* Images.xcassets */; };
 		C4B5D2431ABE218B00C87B82 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C4B5D2411ABE218B00C87B82 /* LaunchScreen.xib */; };
 		C4B5D24F1ABE218B00C87B82 /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4B5D24E1ABE218B00C87B82 /* PostcardTests.swift */; };
+		C4B5D2591AC4FB0900C87B82 /* SagradaFamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = C4B5D2581AC4FB0900C87B82 /* SagradaFamilia.jpeg */; };
+		C4B5D25B1AC8485900C87B82 /* AlbertEinsteinStamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C4B5D25A1AC8485900C87B82 /* AlbertEinsteinStamp.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		C4B5D2481ABE218B00C87B82 /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4B5D24D1ABE218B00C87B82 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C4B5D24E1ABE218B00C87B82 /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		C4B5D2581AC4FB0900C87B82 /* SagradaFamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SagradaFamilia.jpeg; sourceTree = "<group>"; };
+		C4B5D25A1AC8485900C87B82 /* AlbertEinsteinStamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = AlbertEinsteinStamp.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +102,7 @@
 		C4B5D24B1ABE218B00C87B82 /* PostcardTests */ = {
 			isa = PBXGroup;
 			children = (
+				C4B5D2581AC4FB0900C87B82 /* SagradaFamilia.jpeg */,
 				C4B5D24E1ABE218B00C87B82 /* PostcardTests.swift */,
 				C4B5D24C1ABE218B00C87B82 /* Supporting Files */,
 			);
@@ -107,6 +112,7 @@
 		C4B5D24C1ABE218B00C87B82 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				C4B5D25A1AC8485900C87B82 /* AlbertEinsteinStamp.jpg */,
 				C4B5D24D1ABE218B00C87B82 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4B5D23E1ABE218B00C87B82 /* Main.storyboard in Resources */,
+				C4B5D2591AC4FB0900C87B82 /* SagradaFamilia.jpeg in Resources */,
+				C4B5D25B1AC8485900C87B82 /* AlbertEinsteinStamp.jpg in Resources */,
 				C4B5D2431ABE218B00C87B82 /* LaunchScreen.xib in Resources */,
 				C4B5D2401ABE218B00C87B82 /* Images.xcassets in Resources */,
 			);
